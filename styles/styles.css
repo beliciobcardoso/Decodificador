@@ -1,0 +1,15 @@
+@import url("./root.css");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font: 1rem/1.5 var(--bs-font-sans-serif);
+  background-color: var(--bs-dark);
+}
+
+a {
+  color: var(--bs-dark-blue-300);
+}
